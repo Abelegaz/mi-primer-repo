@@ -9,3 +9,6 @@ Este repositorio forma parte de mis prácticas de Git y GitHub.
 - Sincronizar archivos con GitHub.
 
 **Autor:** Abel
+**## Mi perfil
+
+[Visita mi perfil de GitHub](https://github.com/Abelegaz)
