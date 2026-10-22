@@ -1,0 +1,5 @@
+- **CPUID CPU-Z**
+- **Ligthroom**
+- **discord**
+- **VMware**
+- **Visual Studio Code**

@@ -13,3 +13,5 @@ tmpfs           336M   88K  335M   1% /run/user/1000
 /dev/sr0        110M  110M     0 100% /run/media/abel/CDROM
 /dev/sr1        6.1G  6.1G     0 100% /run/media/abel/Ubuntu 26.04.1 LTS amd64
 *
+- **Windows:192.168.56.1**
+- **Ubuntuu:192.168.174.128/24 **
