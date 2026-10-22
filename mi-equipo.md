@@ -1,0 +1,3 @@
+- **abel-VMware-Virtual-platform:**
+- **Ubuntu 26.4.1 LTS:**
+- **AMD Ryzen 5 5600X 6-Core Processor:**
